@@ -6,16 +6,16 @@ import time
 import datetime
 
 
-api = twitter.Api(consumer_key='klm9F8Xz0n9ng0ymojJZxQ',
-            consumer_secret='PAChZIBlC4MYBMDxcNyu7ScRkLtsd3D1XyvjYQZ2ju4',
-             access_token_key='1947828650-WU1xMh9ip50UGlTmX6NRRwRgJ1XEv1DNQzzTJWL', 
-             access_token_secret='AMvigoPbuRLpfmehi3c0vbFxuVdvYsfHd1QR25y1kk')
+api = twitter.Api(consumer_key='*******************',
+            consumer_secret='*********************',
+             access_token_key='***********************', 
+             access_token_secret='**********************')
 
 
 
 referral_url = "http://bit.ly/GSSmmg"
 
-url = "http://api.wunderground.com/api/73696668127ce5fd/conditions/q/VA/Blacksburg.json"
+url = "http://api.wunderground.com/api/********************/conditions/q/VA/Blacksburg.json"
 #current_weather = ""
 
 #now = datetime.datetime.now()
